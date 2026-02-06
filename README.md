@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Development as well as UI/UX
 - 🌱 I’m currently learning Jetpack Compose and plan to start learning backend ASAP
 - 💞️ I’m looking to collaborate on projects that aim to boost productivity or manage a company's 
-- 📫 How to reach me :- 
+- 📫 How to reach me :- https://www.linkedin.com/in/aryaveer-soni-0610a0296/
 - 😄 Pronouns: He/Him
 
 <!---
